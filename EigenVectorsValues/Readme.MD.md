@@ -2,8 +2,8 @@
 # 📘 YZM212 - 3. Laboratuvar Değerlendirmesi Raporu
 
 ## 👤 Öğrenci Bilgileri
-- **Ad Soyad:** [Adınızı Giriniz]
-- **Numara:** [Öğrenci Numaranız]
+- **Ad Soyad:** [Furkan Günbaz]
+- **Numara:** [23291408]
 - **Ders:** Makine Öğrenmesi (YZM212)
 - **Tarih:** 08.04.2025
 
