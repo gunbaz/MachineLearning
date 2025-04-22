@@ -23,7 +23,7 @@ Bu laboratuvar çalışması, makine öğrenmesi bağlamında matris manipülasy
 🔹 Matris, Özdeğer ve Özvektör Nedir?
 
 - Matris: İki boyutlu veri yapısıdır, genellikle verileri veya ilişkileri temsil eder.
-- Özdeğer: \( A \cdot v = \lambda \cdot v \) denklemini sağlayan skalar \(\lambda\) değeridir.
+- Özdeğer: ( A.v = lambda.v ) denklemini sağlayan skalar (lambda) değeridir.
 - Özvektör: Matris ile çarpıldığında yönü değişmeyen vektörlerdir.
 
 🔹 Makine Öğrenmesinde Kullanım Alanları
@@ -47,13 +47,13 @@ Bu laboratuvar çalışması, makine öğrenmesi bağlamında matris manipülasy
 
 Aşağıdaki 3x3 kare matris için NumPy kullanılarak özdeğerler ve özvektörler hesaplanmıştır:
 
-\[
-A = /begin{bmatrix}
-4 & -2 & 1 \\
-0 & 3 & -1 \\
-0 & 0 & 2 \\
-\end{bmatrix}
-\]
+
+A = 
+[
+4 -2  1 
+0  3 -1 
+0  0  2 
+]
 
 ➕ Kod Parçası
 
