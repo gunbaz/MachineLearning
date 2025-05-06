@@ -1,0 +1,44 @@
+# Bytecode dosyaları
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpointleri
+.ipynb_checkpoints/
+
+# IDE ayarları
+.vscode/
+.idea/
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+
+# Ortam dosyaları
+.env
+.venv/
+*.env
+
+# Girdi / çıktı dosyaları
+*.csv
+*.xlsx
+
+# Derlenmiş dosyalar
+*.so
+*.pyd
+
+# Gereksiz log dosyaları
+*.log
+
+# Python cache dosyaları
+*.pyo
+*.pyc
+
+# Kendi oluşturduğun modeller veya geçici veriler
+*.model
+*.weights
+
+# Çıktılar
+*.png
+*.jpg
+*.jpeg
+*.pdf
